@@ -105,6 +105,6 @@ function everyDivisible(n){
 }
 
 let n = prompt('input a number: ');
-console.log("If " + n + " = ");
+console.log("If n = " + n + ": ");
 everyDivisible(n);
 console.log();
